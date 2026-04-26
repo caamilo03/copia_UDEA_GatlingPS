@@ -9,19 +9,34 @@ class LoginTest extends Simulation{
   // 1 Http Conf
   val httpConf = http.baseUrl(url)
     .acceptHeader("application/json")
-    //Verificar de forma general para todas las solicitudes
-    .check(status.is(200))
+    .contentTypeHeader("application/json")
 
   // 2 Scenario Definition
-  val scn = scenario("Login").
-    exec(http("login")
+  val loginNormalScenario = scenario("Login - 100 Concurrentes")
+    .exec(http("login-normal")
       .get(s"/login/$username/$password")
-       //Recibir información de la cuenta
+      .check(status.is(200))
+    )
+
+  val loginPeakScenario = scenario("Login - 200 Concurrentes")
+    .exec(http("login-peak")
+      .get(s"/login/$username/$password")
       .check(status.is(200))
     )
 
   // 3 Load Scenario
   setUp(
-    scn.inject(rampUsersPerSec(5).to(15).during(30))
-  ).protocols(httpConf);
+    loginNormalScenario.inject(
+      atOnceUsers(loginNormalUsers)
+    ),
+    loginPeakScenario.inject(
+      nothingFor(loginNormalDuration),
+      atOnceUsers(loginPeakUsers)
+    )
+  ).protocols(httpConf)
+    .assertions(
+      details("login-normal").responseTime.percentile3.lte(loginP95NormalMs),
+      details("login-peak").responseTime.percentile3.lte(loginP95PeakMs),
+      global.failedRequests.percent.is(0)
+    )
 }
