@@ -45,7 +45,7 @@ class BillPaymentTest extends Simulation {
         .body(StringBody(payeeBody)).asJson
         .check(status.is(200))
         // La API devuelve el monto y el nombre del payee confirmados
-        .check(jsonPath("$.amount").is(billPayAmount.toString))
+        .check(jsonPath("$.amount").is(s"$billPayAmount"))
         .check(jsonPath("$.payeeName").saveAs("confirmedPayee"))
     )
     .exec(
