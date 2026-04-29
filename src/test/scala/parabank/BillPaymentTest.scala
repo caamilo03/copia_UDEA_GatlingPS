@@ -1,3 +1,4 @@
+
 package parabank
 
 import io.gatling.core.Predef._
