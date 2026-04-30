@@ -5,8 +5,8 @@ import scala.concurrent.duration._
 object Data {
 
   // ── Base URLs ──────────────────────────────────────────────────────────────
-  val url     = "https://parabank.parasoft.com/parabank/services/bank"  // REST directo
-  val baseUrl = "https://parabank.parasoft.com"                         // raíz
+  val url     = "https://parabank.parasoft.com/parabank/services/bank"
+  val baseUrl = "https://parabank.parasoft.com"
 
   // ── Credenciales ───────────────────────────────────────────────────────────
   val username = "john"
@@ -31,18 +31,20 @@ object Data {
   val transferTargetTps:      Int            = 150
 
   // ── HU 3: Estado de cuenta ────────────────────────────────────────────────
-  val statementAccountId:     String         = fromAccountId
-  val statementUsers:         Int            = 200
-  val statementDuration:      FiniteDuration = 10.seconds
-  val statementP95Ms:         Int            = 3000
-  val statementMaxErrorPct:   Double         = 1.0
+  val statementAccountId:   String         = fromAccountId
+  val statementUsers:       Int            = 200
+  val statementDuration:    FiniteDuration = 10.seconds
+  val statementP95Ms:       Int            = 3000
+  val statementMaxErrorPct: Double         = 1.0
 
   // ── HU 4: Solicitud de préstamo ───────────────────────────────────────────
-  val loanCustomerId:   String = "12212"   // Customer ID del usuario "john"
+  val loanCustomerId:    String = "12212"
   val loanFromAccountId: String = fromAccountId
-  val loanAmount:       String = "1000"
-  val loanDownPayment:  String = "10"
-  val loanMeanMs:       Int    = 5000
+  val loanAmount:        String = "1000"
+  // Reducido de "10" a "1": 150 usuarios × $1 = $150 en total,
+  // bien dentro del saldo inicial de la cuenta tras el initializeDB
+  val loanDownPayment:   String = "1"
+  val loanMeanMs:        Int    = 5000
   val loanMinSuccessPct: Double = 98.0
 
   // ── HU 5: Pago de servicios ───────────────────────────────────────────────
