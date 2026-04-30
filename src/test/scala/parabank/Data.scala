@@ -30,19 +30,17 @@ object Data{
     val statementP95Ms = 3000
     val statementMaxErrorPercent = 1.0
 
-    // Historia 4: Solicitud de préstamo bajo carga
-    val loanUsers          = 150
-    val loanAccountId      = 12345
-    val loanAmount         = 5000
-    val loanDownPayment    = 1000
-    val loanAvgMs          = 5000
-    val loanMaxErrorPct    = 2
+    // HU 4: Solicitud de préstamo 
+    val loanUsers = 150
+    val loanDuration = 10.seconds
+    val loanMaxMeanMs = 5000
+    val loanMaxErrorPercent = 2.0 // Equivalente a tasa de éxito >= 98%
 
-    // Historia 5: Pago de servicios con concurrencia alta
-    val billPayUsers       = 200
-    val billPayAccountId   = 12345
-    val billPayAmount      = 150
-    val billPayAvgMs       = 3000
-    val billPayMaxErrorPct = 1
+    // HU 5: Pago de servicios 
+    val billPayUsers = 200
+    val billPayDuration = 10.seconds
+    val billPayMaxResponseMs = 3000
+    val billPayMaxErrorPercent = 1.0
+    val billPayAmount = 50
 
 }

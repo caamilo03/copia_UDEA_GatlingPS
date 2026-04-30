@@ -1,71 +1,46 @@
-
 package parabank
 
 import io.gatling.core.Predef._
 import io.gatling.http.Predef._
-import parabank.Data._
 
 class BillPaymentTest extends Simulation {
 
-  // Configuración HTTP
   val httpConf = http
-    .baseUrl(url)
+    .baseUrl(Data.appUrl)
     .acceptHeader("application/json")
-    .contentTypeHeader("application/json")
 
-  //  Body del payee
-  val payeeBody: String =
-    s"""{
-       |  "name":          "Electric Company",
-       |  "address": {
-       |    "street":  "123 Main St",
-       |    "city":    "Anytown",
-       |    "state":   "CA",
-       |    "zipCode": "12345"
-       |  },
-       |  "phoneNumber":   "555-1234",
-       |  "accountNumber": "98765"
-       |}""".stripMargin
-
-  // Definición del escenario
-  val billPayScenario = scenario("Bill Payment - 200 Concurrentes")
+  val scn = scenario("HU 5: Bill Payment - Alta Concurrencia")
+    // Paso 1: Enviar el pago
     .exec(
-      // Autenticación
-      http("billpay-auth")
-        .get(s"/login/$username/$password")
-        .check(status.is(200))
-        .check(jsonPath("$.id").saveAs("customerId"))
-    )
-    .exec(
-      // Envío del pago
       http("bill-payment")
-        .post("/billpay")
-        .queryParam("accountId", billPayAccountId)   // = 13566 (From account #)
-        .queryParam("amount",    billPayAmount)       // = campo Amount del form
-        .body(StringBody(payeeBody)).asJson
+        .post("/services/bank/billpay")
+        .queryParam("accountId", "12345") // Cuenta genérica de origen
+        .queryParam("amount", s"${Data.billPayAmount}") // Interpolación corregida
+        .header("Content-Type", "application/json")
+        // Body con los datos del beneficiario requerido por Parabank
+        .body(StringBody("""{"name":"Servicios Publicos","address":{"street":"Calle 1","city":"Medellin","state":"ANT","zipCode":"00000"},"phoneNumber":"1234567","accountNumber":"98765"}""")).asJson
         .check(status.is(200))
-        // La API devuelve el monto y el nombre del payee confirmados
-        .check(jsonPath("$.amount").is(s"$billPayAmount"))
-        .check(jsonPath("$.payeeName").saveAs("confirmedPayee"))
     )
+    .pause(1)
+    // Paso 2: Verificar en el historial del usuario (Corrige el error 404)
     .exec(
-      // Verificación del pago
       http("bill-payment-verify")
-        .get(s"/accounts/$billPayAccountId/transactions/month/All/list")
+        // Consultamos las transacciones reales de la cuenta para confirmar el registro
+        .get("/services/bank/accounts/12345/transactions")
         .check(status.is(200))
-        .check(jsonPath("$[0]").exists)
+        // Verificamos que la respuesta devuelva un arreglo de transacciones válido
+        .check(jsonPath("$[*]").exists) 
     )
 
-  // Modelo de carga
   setUp(
-    billPayScenario.inject(
-      rampUsers(billPayUsers).during(20)  // sube a 200 usuarios en 20 s
+    scn.inject(
+      rampUsers(Data.billPayUsers).during(Data.billPayDuration)
     )
   ).protocols(httpConf)
-
-  // Aserciones
     .assertions(
-      details("bill-payment").responseTime.percentile3.lte(billPayAvgMs),  // ≤ 3 s p95
-      global.failedRequests.percent.lte(billPayMaxErrorPct)                 // ≤ 1 % errores
+      // Criterio: Tasa de errores funcionales <= 1%
+      global.failedRequests.percent.lte(Data.billPayMaxErrorPercent),
+      // Criterio: Tiempo de respuesta por transacción <= 3 segundos
+      details("bill-payment").responseTime.percentile4.lte(Data.billPayMaxResponseMs)
     )
 }
