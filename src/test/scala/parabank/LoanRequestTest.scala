@@ -6,45 +6,50 @@ import scala.concurrent.duration._
 
 class LoanRequestTest extends Simulation {
 
-  // 1. Configuramos la URL centralizada llamándola desde Data.scala
+  /*
+   * FIX: Se usa Data.url (REST directo) en lugar de Data.baseUrl + services_proxy.
+   * El proxy SOAP devolvía HTTP 500 en todos los POST bajo carga concurrente.
+   */
   val httpProtocol = http
-    .baseUrl(Data.baseUrl) 
+    .baseUrl(Data.url)
     .acceptHeader("application/json")
 
-  // 2. Definición del escenario con Correlación 
   val scn = scenario("HU 4: Solicitud de Prestamo")
-    
+
+    // Paso 1 – obtener la primera cuenta del cliente y guardar su ID
     .exec(
       http("GET - Obtener Cuentas")
-        .get("/parabank/services_proxy/bank/customers/" + Data.loanCustomerId + "/accounts")
+        .get("/customers/" + Data.loanCustomerId + "/accounts")
         .basicAuth(Data.username, Data.password)
         .check(status.is(200))
-        .check(jsonPath("$[-1].id").saveAs("dynamicAccountId"))
+        // FIX: $[0].id en lugar de $[-1].id (más compatible con la implementación
+        //      de JsonPath de Gatling y evita índices negativos que pueden fallar)
+        .check(jsonPath("$[0].id").saveAs("dynamicAccountId"))
     )
-    
-    .pause(1) 
+
+    .pause(1)
+
+    // Paso 2 – solicitar el préstamo usando la cuenta obtenida dinámicamente
     .exec(
       http("POST - Request Loan")
-        .post("/parabank/services_proxy/bank/requestLoan") 
-        .basicAuth(Data.username, Data.password) 
-        .queryParam("customerId", Data.loanCustomerId)
-        .queryParam("amount", Data.loanAmount)
-        .queryParam("downPayment", Data.loanDownPayment)
-        // INYECCIÓN DINÁMICA: Usamos la variable guardada en la petición anterior
-        .queryParam("fromAccountId", "${dynamicAccountId}") 
+        .post("/requestLoan")                         // FIX: ruta REST directa
+        .basicAuth(Data.username, Data.password)
+        .queryParam("customerId",   Data.loanCustomerId)
+        .queryParam("amount",       Data.loanAmount)
+        .queryParam("downPayment",  Data.loanDownPayment)
+        .queryParam("fromAccountId", "${dynamicAccountId}")   // inyección dinámica
         .check(status.is(200))
     )
 
-  // 3. Configuración de Inyección y Aserciones
+  // Inyección: 150 usuarios concurrentes en total (criterio de aceptación HU 4)
   setUp(
     scn.inject(
-      atOnceUsers(50),                                  
-      rampUsers(50).during(20.seconds),                 
-      constantUsersPerSec(5).during(10.seconds)         
+      atOnceUsers(50),                               //  50 usuarios de golpe
+      rampUsers(50).during(20.seconds),              //  50 usuarios en rampa
+      constantUsersPerSec(5).during(10.seconds)      //  50 usuarios más (5/s × 10 s)
     ).protocols(httpProtocol)
   ).assertions(
-    // Aserciones basadas estrictamente en los criterios de aceptación
-    global.responseTime.mean.lte(5000),         // El tiempo de respuesta promedio debe ser <= 5 segundos
-    global.successfulRequests.percent.gte(98.0) // El sistema debe mantener una tasa de éxito >= 98%
+    global.responseTime.mean.lte(Data.loanMeanMs),          // promedio ≤ 5 000 ms
+    global.successfulRequests.percent.gte(Data.loanMinSuccessPct)  // éxito ≥ 98 %
   )
 }
