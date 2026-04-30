@@ -5,30 +5,32 @@ import io.gatling.http.Predef._
 import scala.concurrent.duration._
 
 class LoanRequestTest extends Simulation {
-
-  // 1. Usamos la URL centralizada de Data.scala
-  val httpConf = http
-    .baseUrl(Data.url)
+//1. Configuramos la URL centralizada
+  val httpProtocol = http
+    .baseUrl("https://parabank.parasoft.com")
     .acceptHeader("application/json")
-  // 2. Definición del escenario con parámetros centralizados
-  val scn = scenario("HU 4: Loan Request - Carga con Rampa")
+
+//2. Definición del escenario
+ val scn = scenario("HU 4: Solicitud de Prestamo")
     .exec(
-      http("request-loan")
-        .post("/requestLoan")
-        .queryParam("customerId", "12212") 
-        .queryParam("amount", "10000")
-        .queryParam("downPayment", "1000")
-        .queryParam("fromAccountId", "12345") 
+      http("POST - Request Loan")
+        .post("/parabank/services_proxy/bank/requestLoan") 
+        .queryParam("customerId", Data.loanCustomerId)
+        .queryParam("amount", Data.loanAmount)
+        .queryParam("downPayment", Data.loanDownPayment)
+        .queryParam("fromAccountId", Data.loanFromAccountId)
         .check(status.is(200))
     )
-// 3. Configuración de Inyección y Aserciones
+
+  //3. Configuración de Inyección y Aserciones
   setUp(
     scn.inject(
-      rampUsers(Data.loanUsers).during(Data.loanDuration)
-    )
-  ).protocols(httpConf)
-    .assertions(
-      global.failedRequests.percent.lte(Data.loanMaxErrorPercent),
-      details("request-loan").responseTime.mean.lte(Data.loanMaxMeanMs) 
-    )
+      atOnceUsers(50),                                  
+      rampUsers(50).during(20.seconds),                 
+      constantUsersPerSec(5).during(10.seconds)         
+    ).protocols(httpProtocol)
+  ).assertions(
+    global.responseTime.mean.lte(5000),         // El tiempo de respuesta promedio debe ser <= 5 segundos
+    global.successfulRequests.percent.gte(98.0) // El sistema debe mantener una tasa de éxito >= 98%[cite: 1]
+  )
 }

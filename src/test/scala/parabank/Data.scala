@@ -31,10 +31,10 @@ object Data{
     val statementMaxErrorPercent = 1.0
 
     // HU 4: Solicitud de préstamo 
-    val loanUsers = 150
-    val loanDuration = 10.seconds
-    val loanMaxMeanMs = 5000
-    val loanMaxErrorPercent = 2.0 // Equivalente a tasa de éxito >= 98%
+    val loanCustomerId: String = "12212"    
+    val loanFromAccountId: String = "13566" 
+    val loanAmount: String = "1000"         
+    val loanDownPayment: String = "10"
 
     // HU 5: Pago de servicios 
     val billPayUsers = 200
