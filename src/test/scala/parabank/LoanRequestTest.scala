@@ -6,7 +6,7 @@ import scala.concurrent.duration._
 
 class LoanRequestTest extends Simulation {
 
-  // 1. Usamos la URL centralizada
+  // 1. Usamos la URL centralizada de Data.scala
   val httpConf = http
     .baseUrl(Data.url)
     .acceptHeader("application/json")
@@ -18,14 +18,10 @@ class LoanRequestTest extends Simulation {
         .queryParam("customerId", "12212") 
         .queryParam("amount", "10000")
         .queryParam("downPayment", "1000")
-        // Traemos la cuenta dinámica
-        .queryParam("fromAccountId", Data.fromAccountId) 
+        .queryParam("fromAccountId", "12345") 
         .check(status.is(200))
     )
-
-
-  // 3. Configuración de Inyección y Aserciones 
-
+// 3. Configuración de Inyección y Aserciones
   setUp(
     scn.inject(
       rampUsers(Data.loanUsers).during(Data.loanDuration)
