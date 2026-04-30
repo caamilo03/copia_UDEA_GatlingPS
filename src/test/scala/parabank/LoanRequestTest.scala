@@ -15,6 +15,7 @@ class LoanRequestTest extends Simulation {
     .exec(
       http("POST - Request Loan")
         .post("/parabank/services_proxy/bank/requestLoan") 
+        .basicAuth(Data.username, Data.password) 
         .queryParam("customerId", Data.loanCustomerId)
         .queryParam("amount", Data.loanAmount)
         .queryParam("downPayment", Data.loanDownPayment)
