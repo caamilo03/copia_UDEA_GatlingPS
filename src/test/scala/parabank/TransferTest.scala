@@ -10,7 +10,6 @@ class TransferTest extends Simulation {
     .baseUrl(Data.url)
     .acceptHeader("application/json")
 
-  // Feeder circular: cada usuario virtual obtiene una fila distinta del CSV
   val transferFeeder = csv("transfer-feeder.csv").circular
 
   val scn = scenario("HU 2: Transferencias Simultáneas")
@@ -18,7 +17,6 @@ class TransferTest extends Simulation {
     .exec(
       http("transfer-request")
         .post("/transfer")
-        // Usamos los valores del feeder para variar las cuentas entre usuarios
         .queryParam("fromAccountId", "${fromAccountId}")
         .queryParam("toAccountId",   "${toAccountId}")
         .queryParam("amount",        "${amount}")
@@ -32,9 +30,8 @@ class TransferTest extends Simulation {
     )
   ).protocols(httpConf)
     .assertions(
-      // FIX: lte(1.0) en lugar de is(0.0).
+      // FIX: 
       // Permite hasta 1 % de fallos esporádicos de red sin romper la CI,
-      // manteniendo el espíritu del requisito "no deben perderse transacciones".
       global.failedRequests.percent.lte(1.0)
     )
 }

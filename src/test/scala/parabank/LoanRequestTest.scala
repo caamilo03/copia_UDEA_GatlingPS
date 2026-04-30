@@ -5,14 +5,14 @@ import io.gatling.http.Predef._
 import scala.concurrent.duration._
 
 class LoanRequestTest extends Simulation {
-
+  
   val httpProtocol = http
     .baseUrl(Data.url)
     .acceptHeader("application/json")
 
   val scn = scenario("HU 4: Solicitud de Prestamo")
 
-    // 1. Login: establece sesión y captura customerId real (no hardcoded)
+    // 1. Login: establece sesión y captura customerId real 
     .exec(
       http("GET - Login")
         .get(s"/login/${Data.username}/${Data.password}")
@@ -42,7 +42,6 @@ class LoanRequestTest extends Simulation {
     )
 
   // FIX: Inyección suave (rampUsers) en lugar de combinación agresiva.
-  //      Esto evita el racing en /requestLoan que generaba HTTP 400.
   //      Sigue cumpliendo el criterio: 150 usuarios concurrentes en HU 4.
   setUp(
     scn.inject(
@@ -52,7 +51,6 @@ class LoanRequestTest extends Simulation {
     .assertions(
       global.responseTime.mean.lte(Data.loanMeanMs),
       // FIX: tolerancia 2% global (= éxito ≥ 98%) en lugar de exigirlo
-      //      solo al POST. Más realista bajo carga concurrente real.
       global.failedRequests.percent.lte(2.0)
     )
 }
