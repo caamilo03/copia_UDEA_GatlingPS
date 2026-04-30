@@ -3,3 +3,713 @@
 2026.04.30 16:21:28 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
 2026.04.30 16:21:28 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
 2026.04.30 16:21:30 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:41 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala
+abr 30, 2026 4:22:41 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2026.04.30 16:22:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:41 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2026.04.30 16:22:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2026.04.30 16:22:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+2026.04.30 16:22:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+2026.04.30 16:22:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:42 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+2026.04.30 16:22:42 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+2026.04.30 16:22:42 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:42 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+2026.04.30 16:22:43 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala
+abr 30, 2026 4:22:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+2026.04.30 16:22:42 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:43 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+abr 30, 2026 4:22:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+abr 30, 2026 4:22:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2026.04.30 16:22:42 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:43 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala
+abr 30, 2026 4:22:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+2026.04.30 16:22:43 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:42 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+abr 30, 2026 4:22:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42
+2026.04.30 16:22:43 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala
+2026.04.30 16:22:43 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 45
+2026.04.30 16:22:43 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 44
+abr 30, 2026 4:22:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40
+2026.04.30 16:22:43 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:43 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala
+abr 30, 2026 4:22:43 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 48
+2026.04.30 16:22:43 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:43 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:44 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 50
+2026.04.30 16:22:43 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:44 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 54
+abr 30, 2026 4:22:44 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+abr 30, 2026 4:22:44 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 53
+2026.04.30 16:22:43 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:43 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala
+2026.04.30 16:22:43 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:44 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 58
+2026.04.30 16:22:43 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:43 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:44 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 61
+2026.04.30 16:22:43 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:44 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 67
+abr 30, 2026 4:22:44 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 60
+abr 30, 2026 4:22:44 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 65
+2026.04.30 16:22:44 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:44 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala
+abr 30, 2026 4:22:44 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 68
+2026.04.30 16:22:44 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:45 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 70
+2026.04.30 16:22:44 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:45 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 73
+abr 30, 2026 4:22:45 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 69
+abr 30, 2026 4:22:45 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 72
+2026.04.30 16:22:44 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:45 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala
+abr 30, 2026 4:22:45 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 75
+2026.04.30 16:22:44 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:44 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:45 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 77
+2026.04.30 16:22:44 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:44 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:45 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 76
+abr 30, 2026 4:22:45 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 84
+2026.04.30 16:22:44 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:22:45 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:45 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 86
+2026.04.30 16:22:44 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:22:45 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 89
+2026.04.30 16:22:45 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:24:39 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:24:39 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala
+2026.04.30 16:24:39 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:24:40 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:24:40 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:24:40 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:24:46 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:24:52 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:24:52 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala
+2026.04.30 16:24:52 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:00 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:00 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:01 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:01 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:03 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:03 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:04 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:06 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:06 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala
+2026.04.30 16:25:06 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:06 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:06 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:08 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:08 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:08 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:08 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:08 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:08 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:09 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:09 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:09 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:11 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:11 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:11 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:13 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:13 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:37 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:37 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala
+2026.04.30 16:25:37 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:37 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:37 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:39 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:39 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala
+2026.04.30 16:25:39 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:39 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:39 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:39 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:40 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala
+2026.04.30 16:25:39 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:40 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:40 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:57 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:57 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala
+2026.04.30 16:25:57 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:58 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:57 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:57 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:25:58 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala
+2026.04.30 16:25:58 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:26:00 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:26:00 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:26:01 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:26:01 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:26:02 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:26:02 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:26:39 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:36:12 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:36:24 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:36:24 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala
+2026.04.30 16:36:24 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:36:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:36:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:36:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:36:46 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:36:46 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Exception in thread "pool-54-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:208)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026.04.30 16:36:46 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:37:21 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:37:21 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:37:21 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:37:22 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:19 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:46 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:50 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:50 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:50 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:50 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:51 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:51 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:53 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:53 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:53 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:53 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:55 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:55 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:56 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:56 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:56 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:56 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:56 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:56 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:56 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:58 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:58 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:59 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:59 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:38:59 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:00 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:00 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:00 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:01 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:01 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:39:01 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 306
+2026.04.30 16:39:01 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:01 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:01 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:01 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:02 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:03 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:07 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:07 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:09 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:09 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:09 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:09 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:11 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:11 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:11 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:11 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:12 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:12 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala
+2026.04.30 16:39:12 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:13 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:13 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala
+2026.04.30 16:39:13 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:13 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:13 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:13 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:15 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:15 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:18 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:19 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:19 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:19 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:39:20 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:09 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:11 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:12 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:12 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:12 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:12 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:14 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:14 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:14 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:16 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:17 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:20 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:20 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala
+abr 30, 2026 4:40:20 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 400
+2026.04.30 16:40:20 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:22 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:22 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala
+2026.04.30 16:40:22 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:22 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:22 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:23 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:25 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:25 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala
+2026.04.30 16:40:25 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:25 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:25 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:28 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:28 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala
+2026.04.30 16:40:28 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:28 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:28 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:31 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:31 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala
+2026.04.30 16:40:31 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:32 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:32 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:32 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:36 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:36 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala
+2026.04.30 16:40:36 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:36 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:36 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:40 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:40 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:40 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:40 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:43 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:44 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:44 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:45 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:45 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:45 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:45 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:45 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:45 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:46 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:47 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:47 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:47 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:48 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:48 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:50 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:50 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:50 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:50 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:50 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:53 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:53 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:54 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:55 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:55 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:55 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:55 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:55 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:55 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:55 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:56 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:56 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:56 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:56 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:56 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:56 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:40:57 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:06 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:06 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala
+abr 30, 2026 4:41:06 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 541
+2026.04.30 16:41:06 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:07 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:07 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala
+2026.04.30 16:41:07 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:09 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:09 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:09 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:09 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:10 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:10 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:10 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:10 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:10 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:11 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:11 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:12 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:13 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:12 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:12 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:13 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Exception in thread "pool-128-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:208)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026.04.30 16:41:15 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:15 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala
+2026.04.30 16:41:15 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:15 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\AccountStatementTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:16 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:16 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala
+2026.04.30 16:41:16 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:16 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:16 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:16 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:19 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:19 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:19 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:20 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:21 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:20 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:21 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:22 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:22 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:22 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:22 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:22 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:23 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:23 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:26 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:26 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:26 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:27 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:27 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:27 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:27 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:27 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:27 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:28 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:28 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala
+2026.04.30 16:41:28 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:29 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\BillPaymentTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:33 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:33 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala
+2026.04.30 16:41:33 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:33 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:33 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:35 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:35 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:35 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:41:35 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:27 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:27 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:27 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:29 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:29 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:29 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:30 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:31 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:31 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala
+2026.04.30 16:42:31 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:32 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:34 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:34 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:34 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:34 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:34 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:34 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:35 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:37 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:37 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:37 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:37 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:38 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:38 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:38 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:38 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:38 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:39 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:40 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:40 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:40 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:40 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:40 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:40 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:41 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:42 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:42 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:42 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:45 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:45 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:45 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:46 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:46 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:46 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:46 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:46 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:48 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:48 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:48 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:48 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:50 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:50 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:50 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:50 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:51 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:51 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:52 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:51 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:51 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:53 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:53 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:53 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:53 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:53 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:55 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:55 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala
+2026.04.30 16:42:55 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:55 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:55 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoanRequestTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:57 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:57 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala
+2026.04.30 16:42:57 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:57 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:42:57 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:43:16 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:43:33 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:43:33 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala
+2026.04.30 16:43:33 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:43:33 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:43:33 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:43:33 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:43:33 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:43:33 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:43:36 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:43:36 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:43:36 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:43:36 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:43:36 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:06 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:37 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:40 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:40 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:42 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:42 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:42 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:42 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:43 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:43 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:43 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:43 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:45 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:45 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:45 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:46 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:46 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:46 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:46 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:46 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:46 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:47 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:48 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:48 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:49 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:50 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:50 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:50 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:50 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:50 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:51 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:51 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:51 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:51 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:51 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:52 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:52 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:53 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:54 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:54 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:54 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:57 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:57 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:57 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:57 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:57 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:58 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:58 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:58 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:44:58 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:00 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:00 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:00 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:00 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Exception in thread "pool-210-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:208)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026.04.30 16:45:00 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:00 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:00 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:01 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:01 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:01 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:02 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:02 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:03 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:03 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:03 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:03 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:03 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+abr 30, 2026 4:45:04 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 992
+2026.04.30 16:45:03 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:04 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:05 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:05 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:05 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:05 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:06 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:06 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:07 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:09 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:09 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:10 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:10 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:11 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:10 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:12 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:12 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:15 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:15 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:16 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:15 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:17 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:17 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:17 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:17 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:17 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:18 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:19 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:19 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala
+2026.04.30 16:45:19 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:19 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:21 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:21 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala
+2026.04.30 16:45:21 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:21 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:21 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:24 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:24 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:24 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:45:25 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:47:55 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:02 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:02 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:02 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:02 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:03 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:03 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:03 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:04 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:04 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:06 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:07 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:07 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:07 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:07 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:07 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:08 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:08 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:12 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:14 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:14 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:14 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:15 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:14 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:14 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:15 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:14 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:18 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:18 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:18 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:18 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:18 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:19 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:23 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:24 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:24 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:26 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:26 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:26 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:26 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:29 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:29 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala
+2026.04.30 16:48:29 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:30 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:30 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:30 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:30 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:30 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:30 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:31 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:31 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:32 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:48:33 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:50:05 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:50:05 WARN  no build target for: C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala
+2026.04.30 16:50:05 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:50:05 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:50:05 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.04.30 16:50:11 INFO  no build target found for C:\Users\Camilo\copia_UDEA_GatlingPS\src\test\scala\parabank\TransferTest.scala. Using presentation compiler with project's scala-library version: 3.3.7

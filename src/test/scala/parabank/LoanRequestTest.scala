@@ -6,29 +6,33 @@ import scala.concurrent.duration._
 
 class LoanRequestTest extends Simulation {
 
+  // 1. Usamos la URL centralizada
   val httpConf = http
-    .baseUrl("https://parabank.parasoft.com/parabank")
+    .baseUrl(Data.url)
     .acceptHeader("application/json")
-
+  // 2. Definición del escenario con parámetros centralizados
   val scn = scenario("HU 4: Loan Request - Carga con Rampa")
     .exec(
       http("request-loan")
-        .post("/services/bank/requestLoan")
+        .post("/requestLoan")
         .queryParam("customerId", "12212") 
         .queryParam("amount", "10000")
         .queryParam("downPayment", "1000")
-        .queryParam("fromAccountId", "12345") 
-        // Validamos únicamente que el servidor procese la petición sin caerse (200 OK)
+        // Traemos la cuenta dinámica
+        .queryParam("fromAccountId", Data.fromAccountId) 
         .check(status.is(200))
     )
 
+
+  // 3. Configuración de Inyección y Aserciones 
+
   setUp(
     scn.inject(
-      rampUsers(150).during(10.seconds)
+      rampUsers(Data.loanUsers).during(Data.loanDuration)
     )
   ).protocols(httpConf)
     .assertions(
-      global.failedRequests.percent.lte(2.0),
-      details("request-loan").responseTime.mean.lte(5000) 
+      global.failedRequests.percent.lte(Data.loanMaxErrorPercent),
+      details("request-loan").responseTime.mean.lte(Data.loanMaxMeanMs) 
     )
 }

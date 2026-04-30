@@ -2,41 +2,43 @@ package parabank
 
 import io.gatling.core.Predef._
 import io.gatling.http.Predef._
-import parabank.Data._
+import scala.concurrent.duration._
 
-class LoginTest extends Simulation{
+class LoginTest extends Simulation {
 
   // 1 Http Conf
-  val httpConf = http.baseUrl(url)
+  val httpConf = http
+    .baseUrl(Data.url)
     .acceptHeader("application/json")
     .contentTypeHeader("application/json")
 
   // 2 Scenario Definition
   val loginNormalScenario = scenario("Login - 100 Concurrentes")
     .exec(http("login-normal")
-      .get(s"/login/$username/$password")
+      // Interpola las variables explícitamente desde Data
+      .get(s"/login/${Data.username}/${Data.password}")
       .check(status.is(200))
     )
 
   val loginPeakScenario = scenario("Login - 200 Concurrentes")
     .exec(http("login-peak")
-      .get(s"/login/$username/$password")
+      .get(s"/login/${Data.username}/${Data.password}")
       .check(status.is(200))
     )
 
   // 3 Load Scenario
   setUp(
     loginNormalScenario.inject(
-      atOnceUsers(loginNormalUsers)
+      atOnceUsers(Data.loginNormalUsers)
     ),
     loginPeakScenario.inject(
-      nothingFor(loginNormalDuration),
-      atOnceUsers(loginPeakUsers)
+      nothingFor(Data.loginNormalDuration),
+      atOnceUsers(Data.loginPeakUsers)
     )
   ).protocols(httpConf)
     .assertions(
-      details("login-normal").responseTime.percentile3.lte(loginP95NormalMs),
-      details("login-peak").responseTime.percentile3.lte(loginP95PeakMs),
+      details("login-normal").responseTime.percentile3.lte(Data.loginP95NormalMs),
+      details("login-peak").responseTime.percentile3.lte(Data.loginP95PeakMs),
       global.failedRequests.percent.is(0)
     )
 }

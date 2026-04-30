@@ -6,34 +6,31 @@ import scala.concurrent.duration._
 
 class TransferTest extends Simulation {
 
-  // 1. Configuramos la URL directa y segura
+  // 1. Usamos la URL centralizada de Data.scala
   val httpConf = http
-    .baseUrl("https://parabank.parasoft.com/parabank")
+    .baseUrl(Data.url)
     .acceptHeader("application/json")
 
-  // 2. Cumplimos el criterio del laboratorio cargando el feeder CSV
   val transferFeeder = csv("transfer-feeder.csv").circular
 
+  // 2. Definición del escenario con parámetros centralizados
   val scn = scenario("HU 2: Transferencias simultaneas")
     .feed(transferFeeder)
     .exec(
       http("transfer-request")
-        .post("/services/bank/transfer")
-        // Enviamos los parámetros obligatorios de Parabank. 
-        .queryParam("fromAccountId", "12345") 
-        .queryParam("toAccountId", "54321")
-        .queryParam("amount", "100")
+        .post("/transfer")
+        .queryParam("fromAccountId", Data.fromAccountId) 
+        .queryParam("toAccountId", Data.toAccountId)
+        .queryParam("amount", s"${Data.amount}")
         .check(status.is(200))
     )
-
+// 3. Configuración de Inyección y Aserciones
   setUp(
-    // 3. Cumplimos el criterio de "al menos 150 transacciones por segundo sostenidas"
     scn.inject(
-      constantUsersPerSec(150).during(10.seconds)
+      constantUsersPerSec(Data.transferTargetTps).during(Data.transferStressDuration)
     )
   ).protocols(httpConf)
     .assertions(
-      // Criterio: No deben perderse transacciones (0% de error)
       global.failedRequests.percent.is(0.0)
     )
 }
