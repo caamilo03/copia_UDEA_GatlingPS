@@ -6,7 +6,6 @@ import scala.concurrent.duration._
 
 class BillPaymentTest extends Simulation {
 
-  // Usamos la URL directa para evitar el error de variable no encontrada
   val httpConf = http
     .baseUrl("https://parabank.parasoft.com/parabank") 
     .acceptHeader("application/json")

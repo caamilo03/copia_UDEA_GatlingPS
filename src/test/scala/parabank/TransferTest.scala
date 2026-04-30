@@ -20,7 +20,6 @@ class TransferTest extends Simulation {
       http("transfer-request")
         .post("/services/bank/transfer")
         // Enviamos los parámetros obligatorios de Parabank. 
-        // Si tu CSV tiene estas cabeceras, tomará los valores dinámicos.
         .queryParam("fromAccountId", "12345") 
         .queryParam("toAccountId", "54321")
         .queryParam("amount", "100")
