@@ -4,6 +4,7 @@ import scala.concurrent.duration._
 
 object Data{
     val url = "https://parabank.parasoft.com/parabank/services/bank"
+    val baseUrl = "https://parabank.parasoft.com"
     val username = "john"
     val password = "demo"
     val fromAccountId = "15120"
